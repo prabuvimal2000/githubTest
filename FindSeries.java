@@ -17,7 +17,11 @@ public class FindSeries{
         {
           findNum(num);
         }
-        else
+        else if(num==0)
+        {
+         System.out.println(num);
+        }    
+        else 
         {
            System.out.println("Error");
         }
