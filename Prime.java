@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main
+public class Prime
 {
     public static boolean checkPrime(int n)
     {
