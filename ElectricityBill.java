@@ -1,5 +1,5 @@
 import java.util.*; 
-public class  ComputeElectricityBill
+public class  ElectricityBill
 { 
     public static float calculateBill(int units) 
     { 
